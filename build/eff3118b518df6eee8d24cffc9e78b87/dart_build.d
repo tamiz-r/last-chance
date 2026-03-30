@@ -1,0 +1,1 @@
+ D:\\game\\flutter_apps\\user_app\\build\\eff3118b518df6eee8d24cffc9e78b87\\dart_build_result.json:  C:\\Users\\rtami\\flutter\\bin\\cache\\dart-sdk\\version D:\\game\\flutter_apps\\user_app\\.dart_tool\\package_config.json D:\\game\\flutter_apps\\user_app\\pubspec.yaml d:\\game\\flutter_apps\\user_app\\.dart_tool\\package_config.json
